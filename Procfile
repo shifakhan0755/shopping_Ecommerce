@@ -1,1 +1,1 @@
-web: waitress-serve --port=8000 shoppinglyx.wsgi:application
+web: waitress-serve --port=$PORT shoppinglyx.wsgi:application
