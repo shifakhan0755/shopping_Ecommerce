@@ -129,4 +129,4 @@ EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 
 SESSION_ENGINE = "django.contrib.sessions.backends.db"
 
-STATIC_ROOT = BASE_DIR / 'static'
+STATIC_ROOT = BASE_DIR / "static"
